@@ -4,8 +4,10 @@ const flag = isPalindroma(parolaUser);
 
 if(flag){
     console.log('la parola è palindroma');
+    alert("É PALINDROMA");
 }else{
     console.log('la parola non è palindroma');
+    alert("NON É PALINDROMA");
 }
 
 function isPalindroma(parolaUser) {

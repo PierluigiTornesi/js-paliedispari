@@ -47,5 +47,15 @@ Dichiariamo chi ha vinto.
 **Pari e Dispari**
 
 **Dati**
+1. Variabile con pari o dispari scelto dall'utente
+2. Numero tra 1 e 5 inserito dall'utente
+3. Numero random tra 1 e 5 per il computer
+
 **Logica**
+1. Sommare i due numeri
+2. Verificare se la somma sia pari o dispari:
+    1. Se la somma é pari e l'utente ha scelto pari ha vinto altrimenti ha vinto il computer
+    2. Se la somma é dispari l'utente ha scelto dispari ha vinto altrimenti ha vinto il computer
+
 **Output**
+1. Messaggio finale con dichiarazione del vincitore.
